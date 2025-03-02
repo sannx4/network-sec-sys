@@ -1,0 +1,19 @@
+steps to make a project
+
+#1 git repo creation
+   create a repo in git 
+   get the link
+   create a specific folder for project
+   open cmd
+   git clone <link>
+   get into proj folder cd network-sec-sys
+   code .
+
+#2 create a .gitignore . type /venv
+
+   git add .
+   git commit -m "message wanted"
+   git push origin main
+
+
+#3 environemnt
